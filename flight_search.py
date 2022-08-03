@@ -2,9 +2,9 @@ import requests
 from flight_data import FlightData
 from datetime import datetime
 
-affillD = "matthewsalyeryahoocomflightsearch"
-tequila_api_key = "sNU6uGi-oQa0TDLi5kwtJ3T6ICWXtOjM"
-tequila_endpoint = "http://tequila-api.kiwi.com"
+affillD = "**************************"
+tequila_api_key = "*********************"
+tequila_endpoint = "********************"
 
 
 class FlightSearch:
