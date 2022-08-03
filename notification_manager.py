@@ -1,13 +1,13 @@
 from twilio.rest import Client
 import smtplib
 import requests
-TWILIO_SID = "AC8ff095bb1c164521285c4542b9cef0e6"
-TWILIO_AUTH_TOKEN = "6783cddeff9708e4541ace97bf74038f"
-TWILIO_VIRTUAL_NUMBER = "19802819860"
-TWILIO_VERIFIED_NUMBER = "15024605600"
+TWILIO_SID = "*****************************"
+TWILIO_AUTH_TOKEN = "******************************"
+TWILIO_VIRTUAL_NUMBER = "***********"
+TWILIO_VERIFIED_NUMBER = "***********"
 
-my_email = "matthew.salyer@yahoo.com"
-my_password = "sepwqwepnwctotzi"
+my_email = "****************"
+my_password = "*******************"
 
 sheety_users = "https://api.sheety.co/aba2ece9aa1a17eb62a8b40e0be55b8b/flightDeals/users/"
 
